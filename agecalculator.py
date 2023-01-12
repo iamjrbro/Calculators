@@ -4,6 +4,7 @@ AGE CALCULATOR
 This code develops a program that is able to calculate somebody's age by importing the Datetime module and using Class.
 
     obs: age is not exact, because the only information that it's provided is the year of birth.
+    obs2: the datatime module determines that the set up year is the year which we are in.
 '''
 
 from datetime import datetime
