@@ -5,7 +5,7 @@ This repository contains codes for different calculators, which can be used in s
 
 In this repository you will find:
 
-Age Calculator (agecalculator.py): This code develops a program that is able to calculate somebody's age by importing the Datetime module and using Class.
+Age Calculator (agecalculator.py): This code develops a program that is able to calculate somebody's age by importing the Datetime module and using Class. The datatime module determines that the set up year used in the calculation is the year which we are in.
 
 BMI's Calculator (bmicalculator.py): This code develops a BMI'S Calculator using the If/Else Condition.
 
