@@ -3,7 +3,7 @@ Calculators codes developed using Python
 
 In this repository you will find:
 
-Age Calculator (agecalculator.py): This code develops a program that is able to calculate somebody's age by importing the Datetime module and using Class. The datatime module determines that the set up year used in the calculation is the year which we are in.
+Age Calculator (agecalculator.py): This code develops a program that is able to calculate somebody's age by importing the Datetime module and using Class. The Datatime module determines that the set up year used in the calculation is the year which we are in.
 
 Age Calculator with Input (agecalculatorwinput.py): This code develops a program that calculates the user's age when they enter their year of birth. The year used in the calculation is 2023, needing to be changed if you want to use other year.
 
