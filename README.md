@@ -9,6 +9,8 @@ Age Calculator (agecalculator.py): This code develops a program that is able to 
 
 Age Calculator with Input (agecalculatorwinput.py): This code develops a program that calculates the user's age when they enter their year of birth. The year used in the calculation is 2023, needing to be changed if you want to use other year.
 
+Basic BMI's Calculator (bmi.py): This is a simplified version of a BMI's Calculator, with Ellipsis.
+
 BMI's Calculator (bmicalculator.py): This code develops a BMI'S Calculator using the If/Else Condition.
 
 Cooking Calculator (cookingcalculator.py): This code develops a program, using If/Else + Range, that, based on the temperature of the steak (in Fahrenheit), returns the cooking point.
