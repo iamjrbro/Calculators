@@ -1,8 +1,6 @@
 # Calculators
 Calculators codes developed using Python
 
-This repository contains codes for different calculators, which can be used in situations other than those used as an example.
-
 In this repository you will find:
 
 Age Calculator (agecalculator.py): This code develops a program that is able to calculate somebody's age by importing the Datetime module and using Class. The datatime module determines that the set up year used in the calculation is the year which we are in.
