@@ -16,3 +16,5 @@ Cooking Calculator (cookingcalculator.py): This code develops a program, using I
 Ecommerce Calculator (ecommercecalculator.py): This code develops a program, using the While Loop Condition, that is able to calculate the commission that an ecommerce website charges to sell another person's product.
 
 Paint Calculator (paintcalculator.py): This code develops a calculator, using Functions, that calculates the amount of paint needed to paint a wall.
+
+Sale promotion (salepromo.py): This code develops a sale promotion for a product, using While Loop Condition.
