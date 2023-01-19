@@ -11,6 +11,8 @@ The calculation is performed as follows:
 
     BMI = WEIGHT / (HEIGHT*HEIGHT)
 
+The code will return the following results: 
+
     less than 18,5         =   underweight
     between 18,5 and 24,9  =   normal
     between 25,0 and 29,9  =   overweight
